@@ -1,0 +1,59 @@
+.contenidor-flex >div {
+    background-color: #f1f1f1;
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+    border-radius: 10px;
+    font-size: 20px;
+    line-height: 75px;
+}
+
+.contenidor-flex {
+    display: flex;
+    background-color: darkgreen;
+    flex-direction: column;
+    gap: 30px 20px;
+}
+
+
+
+.j {
+    order: -1; /*ohiuhg*/
+}
+
+.c1 {
+    order: 1;
+    flex-grow: 1;
+}
+
+.c2 {
+    order: 1;
+    flex-grow: 2;
+}
+
+.c3 {
+    order: 0;
+}
+
+.c4 {
+    order: 0;
+}
+
+.c5 {
+    order: 1;
+}
+
+.c6 {
+    order: 1;
+}
+
+
+
+
+
+
+
+
+
+
+
