@@ -18,7 +18,7 @@
 
 
 .j {
-    order: -1; /*ohiuhg*/
+    order: -1; /*todos los elementos flexibles tienen de valor -1 por defecto*/
 }
 
 .c1 {
